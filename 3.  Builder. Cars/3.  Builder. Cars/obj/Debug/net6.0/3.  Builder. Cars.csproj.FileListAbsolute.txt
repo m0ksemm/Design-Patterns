@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\bin\Debug\net6.0\3.  Builder. Cars.exe
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\bin\Debug\net6.0\3.  Builder. Cars.deps.json
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\bin\Debug\net6.0\3.  Builder. Cars.runtimeconfig.json
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\bin\Debug\net6.0\3.  Builder. Cars.dll
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\bin\Debug\net6.0\3.  Builder. Cars.pdb
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.dll
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\refint\3.  Builder. Cars.dll
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.pdb
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\3.  Builder. Cars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\3.  Builder. Cars\3.  Builder. Cars\obj\Debug\net6.0\ref\3.  Builder. Cars.dll
