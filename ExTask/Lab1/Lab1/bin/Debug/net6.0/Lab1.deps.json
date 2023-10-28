@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab1/1.0.0": {
+        "dependencies": {
+          "ClassTask": "1.0.0",
+          "Memento": "1.0.0",
+          "SearchOut": "1.0.0",
+          "Serializer": "1.0.0"
+        },
+        "runtime": {
+          "Lab1.dll": {}
+        }
+      },
+      "ClassTask/1.0.0": {
+        "runtime": {
+          "ClassTask.dll": {}
+        }
+      },
+      "Memento/1.0.0": {
+        "dependencies": {
+          "ClassTask": "1.0.0"
+        },
+        "runtime": {
+          "Memento.dll": {}
+        }
+      },
+      "SearchOut/1.0.0": {
+        "dependencies": {
+          "ClassTask": "1.0.0"
+        },
+        "runtime": {
+          "SearchOut.dll": {}
+        }
+      },
+      "Serializer/1.0.0": {
+        "dependencies": {
+          "ClassTask": "1.0.0"
+        },
+        "runtime": {
+          "Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Memento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

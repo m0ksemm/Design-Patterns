@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Lab1\SearchOut\bin\Debug\net6.0\SearchOut.deps.json
+C:\Users\Admin\Desktop\Lab1\SearchOut\bin\Debug\net6.0\SearchOut.dll
+C:\Users\Admin\Desktop\Lab1\SearchOut\bin\Debug\net6.0\SearchOut.pdb
+C:\Users\Admin\Desktop\Lab1\SearchOut\bin\Debug\net6.0\ClassTask.dll
+C:\Users\Admin\Desktop\Lab1\SearchOut\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.csproj.CopyComplete
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.dll
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\refint\SearchOut.dll
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\SearchOut.pdb
+C:\Users\Admin\Desktop\Lab1\SearchOut\obj\Debug\net6.0\ref\SearchOut.dll

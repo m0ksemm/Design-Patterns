@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask_ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task_>
+    <Priority>6</Priority>
+    <Formulation>Cook the dinner for family</Formulation>
+    <Date>16.11.2019</Date>
+    <Tag>home</Tag>
+  </Task_>
+  <Task_>
+    <Priority>7</Priority>
+    <Formulation>Feed the homeless pets and donate money for Ukrainian army </Formulation>
+    <Date>15.08.2022</Date>
+    <Tag>volunteering</Tag>
+  </Task_>
+  <Task_>
+    <Priority>1</Priority>
+    <Formulation>Start studying C/C++</Formulation>
+    <Date>06.05.2001</Date>
+    <Tag>studying</Tag>
+  </Task_>
+  <Task_>
+    <Priority>3</Priority>
+    <Formulation>Finish my report</Formulation>
+    <Date>20.01.2013</Date>
+    <Tag>work</Tag>
+  </Task_>
+  <Task_>
+    <Priority>2</Priority>
+    <Formulation>Go for a walk with my best friend</Formulation>
+    <Date>17.07.2018</Date>
+    <Tag>free time</Tag>
+  </Task_>
+  <Task_>
+    <Priority>5</Priority>
+    <Formulation>Buy a new pair of sneakers, buy a new jacket</Formulation>
+    <Date>20.01.2020</Date>
+    <Tag>shoping</Tag>
+  </Task_>
+  <Task_>
+    <Priority>4</Priority>
+    <Formulation>Finish my lab. task for OOP</Formulation>
+    <Date>06.04.2023</Date>
+    <Tag>studying</Tag>
+  </Task_>
+</ArrayOfTask_>

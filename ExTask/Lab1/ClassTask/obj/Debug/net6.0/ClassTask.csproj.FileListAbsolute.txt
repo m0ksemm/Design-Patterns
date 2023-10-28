@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Lab1\ClassTask\bin\Debug\net6.0\ClassTask.deps.json
+C:\Users\Admin\Desktop\Lab1\ClassTask\bin\Debug\net6.0\ClassTask.dll
+C:\Users\Admin\Desktop\Lab1\ClassTask\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.dll
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\refint\ClassTask.dll
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ClassTask.pdb
+C:\Users\Admin\Desktop\Lab1\ClassTask\obj\Debug\net6.0\ref\ClassTask.dll
